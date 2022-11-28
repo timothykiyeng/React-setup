@@ -18,6 +18,7 @@ gem "puma", "~> 5.0"
 # Faker
 gem "faker"
 
+# gem "sprockets-rails"
 # Pry
 gem "pry"
 # Use Redis adapter to run Action Cable in production
